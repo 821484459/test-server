@@ -1,7 +1,7 @@
 {
-  "name": "imooc-320-server",
+  "name": "test-server",
   "version": "1.0.0",
-  "description": "imooc 320 server",
+  "description": "imooc test server",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
